@@ -21,7 +21,7 @@
         android:layout_marginBottom="16dp"
         android:ems="10"
         android:inputType="textPersonName"
-        android:text="Enter Nsme" />
+        android:text="Enter Name" />
 
     <EditText
         android:id="@+id/editTextTextPersonName2"
